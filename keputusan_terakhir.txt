@@ -1,0 +1,5 @@
+Setelah perbincangan yang cukup panjang dan percobaan yang cukup dilakukan, tim memutuskan untuk tidak menggunakan database SQLite, dengan pertimbangan sebagai berikut:
+1. Data tidak terlalu banyak
+2. Tim belum terlalu banyak menguasai koneksi SQLite dengan HTML 5, sehingga dalam pengembangannya banyak menemukan kesulitan
+
+Oleh karena itu, penyimpanan data kami ganti dengan menggunakan array.
