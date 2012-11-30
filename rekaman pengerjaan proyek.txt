@@ -1,0 +1,25 @@
+Catatan proses pengerjaan proyek A-Dictionary:
+
+Hari minggu tanggal 30 September 2012, 
+kami mengadakan koordinasi kelompok di RR - UM, dengan membicarakan poin-poin berikut:
+1. pembuatan project planning
+    Dalam pembutan project planning ini, semua anggota kelompok membantu PIC planning (Ridhotul Ulfa) untuk merumuskan latar belakang pembuatan aplikasi, serta gambaran kasar mengenai kebutuhan-kebutuhan yang akan digunakan pada aplikasi.
+
+- Adapun latar belakang yang telah dirumuskan adalah bahwa aplikasi yang akan dibangun ini ditujukan untuk membantu balita dalam mengenali hewan-hewan yang ada di dunia. dimana aplikasi yang akan dibangun berupa kamus. Diharapkan kamus ini membantu balita dalam mengenal ciri-ciri hewan melalui perilakunya. perilaku hewan dapat digambarkan/direpresentasikan menggunakan animasi.
+- Dalam mendiskusikan kebutuhan-kebutuhan aplikasi, kami hanya mendiskusikan mengenai software-software apa saja yang akan dipakai, diantaranya adalah notepad (untuk penulisan html, css, dan javascript), photosop (untuk membuat/mengedit gambar hewan) serta sqlite (untuk manajemen database)
+- Untuk dapat menghemat waktu, kami memutuskan agar implemen mencari gambar-gambar hewan berextensi (gif) sehingga kami tidak erlu membuat semua gambar dari awal. Gambar-gambar gif tersebut kemudian diedit untuk dicapture gambar yang diam (.jpg)
+2. Pengumpulan hasil pekerjaan selama bekerja di rumah masing-masing.
+adapun pekerjaan yang telah selesai dilakukan dan dikumpulkan saat itu antara lain:
+- desain tampilan awal aplikasi (gambar .jpg) yang telah selesai dibuat oleh Wahyu Madya Pratama pada tanggal 18 September 2012
+- desain database dan file (.db) menggunakan sqlite yang telah dibuat oleh Ruth Ema Febrita pada tanggal 25 September 2012.
+
+hari Minggu tanggal 12 November 2012, 
+kami mengadakan koordinasi kelompok kembali, dengan membicarakan poin-poin berikut:
+1. melanjutkan penyusunan proposal analisis yang telah dibuat oleh PIC Analisis (Pramesthi Handaru).
+2. pengumpulan gambar-gambar .gif yang telah diedit oleh implementator serta memasukkan daftarnya pada tabel dalam database.
+3. pengumpulan file-file suara yang telah dibuat (direkam) oleh Pramesthi Handaru serta memasukkannya dalam tabel yang ada pada SQLite
+
+hari Jumat 16 November 2012
+kami (Ruth Ema Febrita, Ridhotul Ulfa dan Risky Basatha) bersama-sama belajar mengenai koneksi SQLite dengan HTML5. Kami cukup mengalami kesulitan, diantaranya:
+1. tidak ada stop kontak yang dapat dipakai di lingkungan UM, sehingga kami harus mengerjakannya di tempat lain (Perpustakaan UB)
+2. kami kurang memahami tentang SQLite dan koneksinya dengan HTML. cukup kesulitan mencari referensi dan proses pembelajarannya. akhirnya kami memiliki alternatif untuk menyimpan data-data kamus yang diperlukan menggunakan array.
